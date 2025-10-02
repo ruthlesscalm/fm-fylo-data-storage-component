@@ -5,7 +5,7 @@ This is a solution to the [Fylo data storage component challenge on Frontend Men
 
 ## 🔗 Links 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/-built-to-impress-400400-accessibility-and-progress-bar-timeout-9ho8s2LCci)
-- Live Site URL: [Fylo data storage component](https://ruthlesscalm.github.io/frontend-mentor-projects/fylo-data-storage-component/)
+- Live Site URL: [Fylo data storage component](https://ruthlesscalm.github.io/fm-fylo-data-storage-component/)
 
 ## 🔍 Table of contents
 
@@ -94,5 +94,5 @@ Pull req are welcome. For major changes, open an issue first.
 
 ## 📄 License
 
-This project is licensed under the [MIT License](../LICENSE).  
-You're free to use, modify, and distribute with credit to **Ruthless Calm**.
+This project is licensed under the [MIT License](./LICENSE).  
+You're free to use, modify, and distribute with credit to **Pavan Gowda S R**.
